@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949287101026",
+    "project_id": "cloudfunction-test-cd383",
+    "storage_bucket": "cloudfunction-test-cd383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949287101026:android:23562f1fb6f0947323673b",
+        "android_client_info": {
+          "package_name": "com.example.iket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949287101026-huc19s3vb1tm3ihid9r4s5c35midb3lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2odusoaR1Mirr7TjYxRuhpFx9IJoJwiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949287101026-huc19s3vb1tm3ihid9r4s5c35midb3lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
